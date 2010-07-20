@@ -1,0 +1,33 @@
+/*
+
+	PRINT STYLES - VERSION 1.0
+	
+*/
+
+
+
+/* 1.HIDING ELEMENTS
+--------------------------------------------*/
+
+
+
+
+/* 2.TYPOGRAPHY & IMAGES
+--------------------------------------------*/
+
+body { font-family:Helvetica,Arial,sans-serif; font-size:12pt; line-height:18pt; color:#000; }
+ul { list-style:square; }
+
+/* 3.LINKS
+--------------------------------------------*/
+
+a:link,
+a:visited,
+a:after,
+a:active { text-decoration:underline; color:black; }
+
+
+
+/* 4.LAYOUT
+--------------------------------------------*/
+

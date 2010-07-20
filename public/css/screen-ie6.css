@@ -1,0 +1,28 @@
+/*
+	IE6 OVERRIDE STYLES
+	
+	CONTENTS ----------
+	
+	   1.HOMEPAGE
+	   
+    -------------------
+	
+*/
+
+#wrapper{background: #32331d url(../img/back.jpg) center top no-repeat;}
+#main_content{background: url(../img/grid.gif) repeat;}
+
+#masthead  h1#logo{background: url(../img/resonate.png) no-repeat; text-indent: -9999px; position:static; margin-top:70px;}
+#masthead  h1#logo a{display:block; width:238px; height:55px; }
+
+#testimonials{max-height: 150px; width:198px; position:relative; font-family: Helvetica, Arial, sans-serif;}
+#testimonials p{color:#7d7c7c; font-style:italic; font-size:0.95em; line-height:1.35em; padding:10px 10px 8px 10px; margin-bottom: 0px; background:#fff; }
+span#person{clear:both; display: block; padding-top:5px; font-weight:bold; font-style: normal; }
+#testimonials #speech{background: url(../img/speech-bubble.png) no-repeat bottom right; width:25px; height:30px; position:absolute; right:10px; bottom:-30px;}
+
+#blog{}
+#blog #articles{padding-bottom:100px;}
+#blog #articles .article{margin-left:0px; background: #fff; position:relative; padding-top:15px;}
+#blog #articles .article h5{font-style: italic; color:#4a4a28; font-family: Helvetica, Arial, sans-serif; padding-bottom:7px; padding-left:10px}
+#blog #articles .article h2{color:#4a4a28; font-size: 3.0em; font-weight:normal; padding-bottom:15px; padding-left:10px}
+#blog #articles .article p{position:static;  margin:0px; padding:10px; background: url(../img/blog-back.png); background: none rgba(180, 204, 149, 0.8); color:#606060; font-size:1.1em;font-family: Helvetica, Arial, sans-serif;}

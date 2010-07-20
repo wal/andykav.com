@@ -1,0 +1,18 @@
+/*
+
+	
+	STYLESHEET FOR SUPER ANCIENT BROWSERS
+	
+	- Defines styles for browsers that don't support @import
+	- Only body & links need styling
+	- Markup should be nice so site should still be usable
+	
+*/
+
+
+
+@import url(screen.css); /* IMPORTS MODERN CSS */
+
+
+
+body { font-family: Arial, Helvetica, sans-serif } /* JUST FONT-FAMILY & COLOURS */
